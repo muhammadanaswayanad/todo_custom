@@ -1,0 +1,20 @@
+<odoo>
+    <data noupdate="1">
+        <record id="stage_a_category" model="todo.stage">
+            <field name="name">A Category</field>
+            <field name="personal_stage_type_id">a_category</field>
+        </record>
+        <record id="stage_b_category" model="todo.stage">
+            <field name="name">B Category</field>
+            <field name="personal_stage_type_id">b_category</field>
+        </record>
+        <record id="stage_c_category" model="todo.stage">
+            <field name="name">C Category</field>
+            <field name="personal_stage_type_id">c_category</field>
+        </record>
+        <record id="stage_d_category" model="todo.stage">
+            <field name="name">D Category</field>
+            <field name="personal_stage_type_id">d_category</field>
+        </record>
+    </data>
+</odoo>
